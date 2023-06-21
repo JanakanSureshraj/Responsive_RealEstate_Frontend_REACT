@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Royal Town",
+    "price": "48,000",
+    "detail": "Deanston Place, Colombo 03",
+    "image": "./residence6.jpg"
+  },
+  {
+    "name": "Averra Garden City",
+    "price": "66,500",
+    "detail": "Chillaw Road, Ja-Ela",
+    "image": "./residence4.jpg"
+  },
+  {
+    "name": "Fox Kennedy Residence",
+    "price": "35,000",
+    "detail": "High Level Street, Nuwara Eliya",
+    "image": "./residence1.png"
+  },
+  {
+    "name": "Feliva Gardens",
+    "price": "49,000",
+    "detail": "Town Lane, Ratnapura",
+    "image": "./residence3.png"
+  },
+  {
+    "name": "Asatti Garden Place",
+    "price": "70,500",
+    "detail": "Asatti Road, Colombo 06",
+    "image": "./residence5.png"
+  },
+  {
+    "name": "Kingston Apartments",
+    "price": "36,000",
+    "detail": "Kingston Lane, Nawala",
+    "image": "./residence2.png"
+  }
+]
